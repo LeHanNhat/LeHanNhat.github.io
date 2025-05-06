@@ -7,7 +7,7 @@ export default defineConfig({
   define:{
     global: 'window',
   },
-  base:"/baki-admin/",
+  base:"/bakishop/",
   server: {
     port: 4000,
     proxy: {
