@@ -1,6 +1,6 @@
 {
   "name": "admin",
-  "homepage": "https://lehannhat.github.io/bakishop/",
+  "homepage": "https://lehannhat.github.io/lehannhat.github.io/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "main -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
