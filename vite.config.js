@@ -7,7 +7,7 @@ export default defineConfig({
   define:{
     global: 'window',
   },
-  base:"/bakishop/",
+  base:"/lehannhat.github.io/",
   server: {
     port: 4000,
     proxy: {
